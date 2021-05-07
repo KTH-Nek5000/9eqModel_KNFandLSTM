@@ -1,4 +1,4 @@
-# 9eqModel_LSTMandLKIS-DMD
+# 9eqModel_KNFandLSTM
 
 ## Introduction
 
