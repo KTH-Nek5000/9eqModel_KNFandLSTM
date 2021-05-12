@@ -3,7 +3,7 @@
 
 ## Introduction
 
-The code in this repository features a Python implementation of recurrent neural networks and Koopman-based frameworks for prediction of temporal dynamics of a low-order model of near-wall turbulence proposed by [Moehlis *et al.*](https://iopscience.iop.org/article/10.1088/1367-2630/6/1/056/meta) (2004, New J. Phys.). The time series generated are used to train long-short-term memory (LSTM) networks and Koopman-based frameworks that can predict the time evolution of the coefficients of the nine-equation model. More details about the implementation and the results are available in ["Recurrent neural networks and Koopman-based frameworks for temporal predictions in a low-order model of turbulence", H. Eivazi, L. Guastoni, P. Schlatter, H. Azizpour, R. Vinuesa](https://arxiv.org/abs/2005.02762) (2021, *International Journal of Heat and Fluid Flow*)  
+The code in this repository features a Python implementation of recurrent neural networks and Koopman-based frameworks for prediction of temporal dynamics of a low-order model of near-wall turbulence proposed by [Moehlis *et al.*](https://iopscience.iop.org/article/10.1088/1367-2630/6/1/056/meta) (2004, New J. Phys.). The time series generated are used to train long-short-term memory (LSTM) networks and Koopman-based frameworks that can predict the time evolution of the coefficients of the nine-equation model. More details about the implementation and the results are available in ["Recurrent neural networks and Koopman-based frameworks for temporal predictions in a low-order model of turbulence", H. Eivazi, L. Guastoni, P. Schlatter, H. Azizpour, R. Vinuesa](https://arxiv.org/abs/2005.02762) (2021, *International Journal of Heat and Fluid Flow*).
 
 ## Datasets
 
