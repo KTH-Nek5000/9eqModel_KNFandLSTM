@@ -36,7 +36,7 @@ This folder contains the data files needed for training and testing of the model
 
 *compare_long_term_statistics.py*: compares the performance of KNF, HDMD, and LSTM models in the reproduction of the long-term statistics by producing Figure 5 of the paper.
 
-*Moehlis_perturb_generator.py*: allows to generate time series that have a perturbation at time *t=500*.\\
+*Moehlis_perturb_generator.py*: allows to generate time series that have a perturbation at time *t=500*.
 
 *Lyapunov_exponents.py*: computes the Lyapunov exponents of these time series and compares it with the LSTM predictions.
 
