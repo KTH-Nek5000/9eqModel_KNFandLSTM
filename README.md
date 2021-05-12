@@ -34,7 +34,7 @@ This folder contains the data files needed for training and testing of the model
 
 *compare_short_term_predictions.py*: compares the performance of KNF, HDMD, and LSTM models in the short-term predictions by producing Figures 2 and 3 of the paper.
 
-*compare_long_term_statistics.py*: compares the performance of KNF, HDMD, and LSTM models in the reproduction of the long-term statistics by producing Figures 5 of the paper.
+*compare_long_term_statistics.py*: compares the performance of KNF, HDMD, and LSTM models in the reproduction of the long-term statistics by producing Figure 5 of the paper.
 
 *Moehlis_perturb_generator.py*: allows to generate time series that have a perturbation at time *t=500*.\\
 
